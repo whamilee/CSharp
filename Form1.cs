@@ -29,7 +29,6 @@ using PaddleOCRSharp;
 /// C#调用摄像头+存储图片+Zxing/Zbar图片识别.当开启摄像头的时候利用Timer对当前图片进行解析处理，识别条码；
 /// 关于条码解析：
 /// 这个DEMO含两个条码解析组件，分别是Zxing和Zbar，使用哪个可以自己切换；
-/// 关于作者：李和密
 /// </summary>
 
 namespace WindowsFormsApplication1
